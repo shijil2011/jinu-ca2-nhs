@@ -32,3 +32,37 @@ collected_at,feed_generated_at,site_id,site_name,trust_code,source_id,kind,is_op
 2026-11-23T02:41:48Z,2026-11-23T02:41:48.266Z,cornwall:stratton-minor-injury-unit,Stratton Minor Injury Unit,REF,cornwall,miu,1,0,,0,0,2026-11-23T02:40:00,0
 2026-11-23T02:41:48Z,2026-11-23T02:41:48.266Z,cornwall:royal-cornwall-hospital-truro-emergency-department,Royal Cornwall Hospital Truro Emergency Department,REF,cornwall,ed,1,418,,40,64,2026-11-23T02:40:00,0
 2026-11-23T02:41:48Z,2026-11-23T02:41:48.266Z,southamptonutc:southampton-urgent-treatment-centre,Southampton Urgent Treatment Centre,NTPAN,southamptonutc,utc,,,we are currently at capacity for treatment so are offering a triage only service,,,2026-11-22T19:15:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:coventry-urgent-treatment-centre,Coventry Urgent Treatment Centre,RKB,uhcw,utc,,,more than 1 hour,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:coventry-minor-injuries-unit,Coventry Minor Injuries Unit,RKB,uhcw,miu,,,more than 1 hour,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:rugby-urgent-treatment-centre-hospital-of-st-cross,Rugby Urgent Treatment Centre (Hospital of St Cross),RKB,uhcw,utc,,,more than 1 hour,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:university-hospital-coventry-emergency-department,University Hospital Coventry Emergency Department,RKB,uhcw,ed,,,more than 6 hours,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:university-hospital-coventry-children-s-emergency-department,University Hospital Coventry Children's Emergency Department,RKB,uhcw,children,,,more than 1 hour,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhcw:university-hospital-coventry-emergency-gynaecology-unit,University Hospital Coventry Emergency Gynaecology Unit,RKB,uhcw,ed,,,more than 2 hours,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,plymouth:emergency-department-derriford-hospital,Emergency Department Derriford Hospital,RK9,plymouth,ed,1,518,,42,91,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,plymouth:dartmoor-building-urgent-treatment-centre,Dartmoor Building Urgent Treatment Centre,RK9,plymouth,utc,1,79,,7,16,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,torbay:torbay-hospital-emergency-department,Torbay Hospital Emergency Department,RA9,torbay,ed,1,124,,20,82,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,torbay:newton-abbot-community-hospital-urgent-treatment-centre,Newton Abbot Community Hospital Urgent Treatment Centre,RA9,torbay,utc,1,7,,3,10,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,mcht:leighton-hospital-emergency-department,Leighton Hospital Emergency Department,RBT,mcht,ed,,695,,,115,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,swbh:midland-metropolitan-university-hospital-emergency-department,Midland Metropolitan University Hospital Emergency Department,RXK,swbh,ed,,725,,,,2026-11-23T11:00:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,swbh:midland-metropolitan-university-hospital-children-s-emergency-department,Midland Metropolitan University Hospital Children's Emergency Department,RXK,swbh,children,,84,,,,2026-11-23T11:00:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,mkuh:milton-keynes-university-hospital-emergency-department,Milton Keynes University Hospital Emergency Department,RD8,mkuh,ed,,,,,103,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhb:good-hope-hospital-emergency-department,Good Hope Hospital Emergency Department,RRK,uhb,ed,,121,,,,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhb:heartlands-hospital-emergency-department,Heartlands Hospital Emergency Department,RRK,uhb,ed,,681,,,,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhb:queen-elizabeth-hospital-birmingham-emergency-department,Queen Elizabeth Hospital Birmingham Emergency Department,RRK,uhb,ed,,131,,,,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,uhb:solihull-hospital-urgent-treatment-centre,Solihull Hospital Urgent Treatment Centre,RRK,uhb,utc,,95,,,,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,wyevalley:hereford-county-hospital-emergency-department,Hereford County Hospital Emergency Department,RLQ,wyevalley,ed,,130,,22,66,2026-11-23T11:10:52.349Z,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,ncic:cumberland-infirmary-emergency-department,Cumberland Infirmary Emergency Department,RNN,ncic,ed,,,over 4 hours,,71,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,ncic:west-cumberland-hospital-emergency-department,West Cumberland Hospital Emergency Department,RNN,ncic,ed,,,3 hours - 3 hours 30 minutes,,30,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:west-cornwall-hospital-penzance-urgent-treatment-centre,West Cornwall Hospital Penzance Urgent Treatment Centre,REF,cornwall,utc,1,88,,8,16,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:bodmin-minor-injury-unit,Bodmin Minor Injury Unit,REF,cornwall,miu,1,115,,6,10,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:camborne-redruth-minor-injury-unit,Camborne Redruth Minor Injury Unit,REF,cornwall,miu,1,174,,34,41,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:falmouth-minor-injury-unit,Falmouth Minor Injury Unit,REF,cornwall,miu,1,114,,9,14,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:helston-minor-injury-unit,Helston Minor Injury Unit,REF,cornwall,miu,1,71,,4,10,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:launceston-minor-injury-unit,Launceston Minor Injury Unit,REF,cornwall,miu,0,,,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:liskeard-minor-injury-unit,Liskeard Minor Injury Unit,REF,cornwall,miu,1,89,,8,14,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:newquay-minor-injury-unit,Newquay Minor Injury Unit,REF,cornwall,miu,0,,,,,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:st-austell-minor-injury-unit,St Austell Minor Injury Unit,REF,cornwall,miu,1,61,,4,12,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:isles-of-scilly-hospital-minor-injury-unit,Isles of Scilly Hospital Minor Injury Unit,REF,cornwall,miu,1,0,,0,0,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:stratton-minor-injury-unit,Stratton Minor Injury Unit,REF,cornwall,miu,1,38,,2,5,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,cornwall:royal-cornwall-hospital-truro-emergency-department,Royal Cornwall Hospital Truro Emergency Department,REF,cornwall,ed,1,99,,9,44,2026-11-23T11:10:00,0
+2026-11-23T11:16:31Z,2026-11-23T11:16:31.321Z,southamptonutc:southampton-urgent-treatment-centre,Southampton Urgent Treatment Centre,NTPAN,southamptonutc,utc,,150,,,,2026-11-23T10:06:00,0
